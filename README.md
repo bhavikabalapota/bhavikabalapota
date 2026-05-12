@@ -2,14 +2,14 @@
   <!-- Intro Header Image -->
   <img src="https://i.pinimg.com/736x/c5/67/67/c567677eaed5443a17065f50a55e7c38.jpg" width="100%" style="border-radius: 15px;" />
 
-  # ✨ hey, i'm bhavika
+  # ✨ hey, i'm Bhavika
   
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="100%" height="2px">
 </div>
 
-### 🫧 systems engineer | CS master's student @ Universität Stuttgart | Ex-Hewlett Packard Enterprise
+### 🫧 CS masters @ Universität Stuttgart | Ex-Hewlett Packard Enterprise | low-level systems & AI/ML | performance, networking & distributed systems|
 
-I like making computers go fast and optimizing things that aren't supposed to be optimized[cite: 1]. Currently based in **Stuttgart 🇩🇪**, balancing low-level systems engineering with the high-level chaos of LLMs[cite: 1].
+I like making computers go fast and optimizing things that aren't supposed to be optimized. Currently based in **Stuttgart 🇩🇪**, balancing low-level systems engineering with the high-level chaos of LLMs.
 
 ---
 
@@ -18,10 +18,10 @@ I like making computers go fast and optimizing things that aren't supposed to be
 </div>
 
 ### ☁️ the vibe
-*   💻 **now:** pursuing my **M.Sc. in Computer Science (Autonomous Systems)** with a **1.2 GPA**[cite: 1].
-*   ⚡ **the era:** spent 2.8 years at **Hewlett Packard Enterprise** breaking and fixing L2/L3 networking protocols[cite: 1].
-*   🪐 **obsessed with:** high-performance computing, linux kernel internals, and making LLM inference snappy on GPUs[cite: 1].
-*   🌿 **philosophy:** write clean code, keep it down to earth, and never stop yapping about systems architecture[cite: 1].
+*   💻 **now:** pursuing my **M.Sc. in Computer Science (Autonomous Systems Major at Universität Stuttgart, Germany )** 
+*   ⚡ **the era:** spent 2.8 years at **Hewlett Packard Enterprise** breaking and fixing L2/L3 networking protocols.
+*   🪐 **obsessed with:** high-performance computing, linux kernel internals, and making LLM inference snappy on GPUs.
+*   🌿 **philosophy:** write clean code, keep it down to earth, and never stop yapping about systems architecture.
 
 <br clear="right"/>
 
@@ -30,53 +30,61 @@ I like making computers go fast and optimizing things that aren't supposed to be
 ### 🛠️ technical toolkit
 
 #### **programming & core**
-`Python` • `C` • `C++` • `SQL` • `Shell Scripting` • `Asyncio` • `Multithreading`[cite: 1]
+`Python` • `C` • `C++` • `SQL` • `Shell` • `Asyncio` • `Multithreading`
 
 #### **systems & debugging**
-*   **focus:** Linux, Concurrency, Memory Management, IPC, Profiling, Latency Optimization[cite: 1].
-*   **deep dive:** Memory Leak Detection, CPU Optimization, GDB, Valgrind, `perf`, `tracemalloc`, `psutil`[cite: 1].
+- Linux, concurrency, memory management, IPC  
+- profiling, latency optimization  
+- tools: `GDB`, `Valgrind`, `perf`, `tracemalloc`, `psutil`
 
 #### **networking**
-*   **protocols:** TCP/IP, BGP, EVPN, OSPF, VXLAN, GRE, BFD[cite: 1].
-*   **expertise:** Data Center Networking, Embedded Linux Systems, Protocol Analysis[cite: 1].
+- TCP/IP, BGP, EVPN, OSPF, VXLAN, GRE, BFD  
+- data center networking, embedded systems, protocol debugging  
 
-#### **ai/ml & optimization**
-*   **frameworks:** PyTorch, NumPy, Pandas, scikit-learn[cite: 1].
-*   **focus:** Transformer Architectures, Model Inference Optimization, Mixed-Precision Inference[cite: 1].
+#### **AI/ML & optimization**
+- PyTorch, NumPy, Pandas, scikit-learn  
+- transformer models, inference optimization, mixed precision  
 
 ---
 
 ### 🚀 core impact @ hpe (2023–2025)
-*   **software engineering:** Engineered scalable distributed control-plane software for enterprise network switches[cite: 1].
-*   **memory magic:** Diagnosed bottlenecks that slashed peak memory usage from **90% to 15%**[cite: 1].
-*   **networking:** Delivered butter code  for BGP, EVPN, and OSPF across **4+ Aruba CX devices**[cite: 1].
-*   **low-level flow:** Performed low-level profiling using `perf` and Valgrind to optimize latency-critical paths[cite: 1].
-*   **live debugging:** Investigated and resolved production-critical issues across complex multi-fabric network topologies[cite: 1].
+*   **software engineering:** Engineered scalable distributed control-plane software for enterprise network switches.
+*   **memory magic:** Diagnosed bottlenecks that slashed peak memory usage from **90% to 15%**.
+*   **networking:** Delivered butter code  for BGP, EVPN, and OSPF across **4+ Aruba CX devices**.
+*   **low-level flow:** Performed low-level profiling using `perf` and Valgrind to optimize latency-critical paths.
+*   **live debugging:** Investigated and resolved production-critical issues across complex multi-fabric network topologies.
 
 ---
 
-### 🧠 recent brain dumps
-*   **GPU Inference Runtime:** Built a high-throughput pipeline for GPT-2 with mixed-precision magic[cite: 1].
+### 🧠 recent dumps
+
+#### 🚀 Transformer Runtime Lab
+> high-performance LLM inference + orchestration playground
+
+- batching + mixed precision optimizations  
+- efficient runtime execution for transformer models  
+- experimentation with throughput vs latency trade-offs  
+
+🔗 **repo:** [transformer-runtime-lab](https://github.com/bhavikabalapota/transformer-runtime-lab)
 
 ---
 
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/14/a8/3c/14a83cb9c7582e50f84f07c278c1e9ae.jpg" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
+  <!-- Smaller meme-style image -->
+  <img src="https://i.pinimg.com/1200x/68/78/99/6878998042e5eee83ba38ab59189924f.jpg" width="320px" style="border-radius: 10px;" />
 </div>
-
-### 📊 stats & stuff
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavikabalapota&show_icons=true&theme=catppuccin_latte&hide_border=true" alt="Bhavika's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavikabalapota&layout=compact&theme=catppuccin_latte&hide_border=true" alt="Top Langs" />
-</p>
 
 ---
 
 ### 🫧 let's chat
-*   📨 **email:** [bhavikabalapota18@gmail.com]
-*   💼 **linkedin:** [https://www.linkedin.com/in/bhavika-balapota-ba5aa1197/]
-*   📍 **based in:** Stuttgart, Germany[cite: 1]
+- 📨 **email:** bhavikabalapota18@gmail.com  
+- 💼 **linkedin:** https://www.linkedin.com/in/bhavika-balapota-ba5aa1197/  
+- 📍 **Stuttgart, Germany**
+
+---
 
 <div align="center">
-  <sub>built with ✨ and way too much grüner Tee</sub>
+  <b>built with ✨ + excessive grüner tee </b>
 </div>
+
+
