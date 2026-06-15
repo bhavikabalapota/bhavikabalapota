@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Intro Header Image -->
-  <img src="https://i.pinimg.com/736x/c5/67/67/c567677eaed5443a17065f50a55e7c38.jpg" width="100%" style="border-radius: 15px;" />
+  <img src="https://i.pinimg.com/736x/c5/67/67/c567677eaed5443a17065f50a55e7c38.jpg" width="50%" style="border-radius: 15px;" />
 
   # ✨ hey, i'm Bhavika
   
